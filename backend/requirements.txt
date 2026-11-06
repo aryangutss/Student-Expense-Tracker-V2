@@ -1,0 +1,7 @@
+# Bounded pins, verified in a fresh venv at /tmp/et2-venv (2026-10-29).
+# Only dependencies actually used by the backend.
+Django==5.2.18
+djangorestframework==3.18.3
+django-cors-headers==4.9.0
+django-filter==25.2
+python-dotenv==1.1.1
